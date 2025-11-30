@@ -1,1 +1,5 @@
 node_modules/
+.wrangler/
+frontend/dist/
+.DS_Store
+npm-debug.log*
